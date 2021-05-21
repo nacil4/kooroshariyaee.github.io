@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-The Contact page
+You can reach me at `koorosh.ariyaee@mail.utoronto.ca`
