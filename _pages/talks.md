@@ -11,7 +11,7 @@ author_profile: true
 
 <!-- collection: talks -->
 
-{% include base_path %}
+
 
 Education
 ======
