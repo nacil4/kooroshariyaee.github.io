@@ -11,7 +11,8 @@ redirect_from:
 
 Invited talks
 ======
-* B.S. in GitHub, GitHub University, 2012
+* *Ariyaee, Koorosh*. Tolerance and resolution of hiatus in Persian. June 21. Razi
+University, Kermanshah, Iran.
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
