@@ -3,12 +3,12 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-url: 'https://github.com/kooroshariyaee/kooroshariyaee.github.io/blob/master/files/Koorosh_Ariyaee_CV.pdf'
+url: 'https://kooroshariyaee.github.io/files/Koorosh_Ariyaee_CV.pdf'
 redirect_from:
   - /resume
 ---
 
-Please click [here](https://github.com/kooroshariyaee/kooroshariyaee.github.io/blob/master/files/Koorosh_Ariyaee_CV.pdf) to see my CV.
+Please click [here](https://kooroshariyaee.github.io/files/Koorosh_Ariyaee_CV.pdf) to see my CV.
 
 <!-- {% include base_path %}
 
