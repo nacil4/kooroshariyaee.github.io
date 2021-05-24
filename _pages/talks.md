@@ -1,48 +1,59 @@
 ---
-layout: page
-title: "Presentations"
+layout: archive
+title: "Talks"
 permalink: /talks/
 author_profile: true
-
+redirect_from:
+<!--   - /resume -->
 ---
 
+{% include base_path %}
 
+Invited talks
+======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
+Refereed Conference Presentations
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-<!-- collection: talks -->
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Non-refereed Conference Prsesentations
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-
-
- B.S. in GitHub, GitHub University, 2012
- M.S. in Jekyll, GitHub University, 2014
- Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-## Invited Talks
-
-##### 2021
-
-**Ariyaee, Koorosh**. Tolerance and resolution of hiatus in Persian. June 21. Razi
-University, Kermanshah, Iran.
-
-**Ariyaee, Koorosh**. Socioculturally induced language barrier: Stigmas and resolution
-strategies. Invited speaker series workshop on language barrier at Youth 4 Success Organization.
-February 27. Toronto, Canada.
-
-## Refereed Conference Presentaiotns
-
-##### 2021
-
-**Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition. Accepted
-for oral presentation at *Canadian Linguistics Association (CLA39)*. June 5-7. University
-of Alberta.
-
-## Non-refereed Conference Presentations
-
-##### 2019
-
-**Ariyaee, Koorosh**. Hiatus resolution strategies in Persian. Oral presentation at *Summer
-Phonology Forum 2019 (SPF 2019)*. August 2. University of Toronto. 
-
-
-
-
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
