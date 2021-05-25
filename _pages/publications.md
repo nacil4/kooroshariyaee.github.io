@@ -16,14 +16,6 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 <!-- Publications -->
-### In Preparation
-
-* **Ariyaee, Koorosh.** Lateral in Central Kurdish: An acoustic study. In R. Falahati & Z.
-Ghane (Eds.), *The Handbook of Phonetics and Phonology of Modern Iranian Languages*.
-Springer.
-* **Ariyaee, Koorosh.** Triggers and targets: nasals and vowels in Tehrani Persian. In A.
-Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi (Eds.), *The Handbook of Persian
-Dialects and Dialectology. Springer*.
 
 ### 2020
 * **Ariyaee, Koorosh** & Peter Jurgec. Variable hiatus in Persian is affected by suffix length.
@@ -40,6 +32,14 @@ Washington, DC: Linguistic Society of America*.
 *Toronto Working Papers in Linguistics 41: Proceedings of Montreal-Ottawa-Toronto Phonology/
 Phonetics (MOT) Workshop 2019*.
 
+### Manuscripts in Progress
+
+* **Ariyaee, Koorosh.** Lateral in Central Kurdish: An acoustic study. In R. Falahati & Z.
+Ghane (Eds.), *The Handbook of Phonetics and Phonology of Modern Iranian Languages*.
+Springer.
+* **Ariyaee, Koorosh.** Triggers and targets: nasals and vowels in Tehrani Persian. In A.
+Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi (Eds.), *The Handbook of Persian
+Dialects and Dialectology. Springer*.
 
 <!-- ## Refereed Conference Presentations
 
