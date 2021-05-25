@@ -24,6 +24,8 @@ for oral presentation at *Canadian Linguistics Association (CLA 39)*. June 5-7. 
 of Alberta.
 
 ### 2020
+* **Ariyaee, Koorosh** & Peter Jurgec. Variable hiatus in Persian. Flash Talk at *North East
+Linguistic Society (NELS 51)*. November 6-8. Université du Québec à Montréal.
 * **Ariyaee, Koorosh** & Peter Jurgec. Variable hiatus in Persian is affected by suffix length.
 Oral presentation at *Annual Meeting on Phonology (AMP 8)*. September 18-20. University
 of California at Santa Cruz.
