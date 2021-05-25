@@ -16,7 +16,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 <!-- Publications -->
-### In Prep
+In Prep
 ======
 * Ariyaee, Koorosh. Lateral in Central Kurdish: An acoustic study. In R. Falahati & Z.
 Ghane (Eds.), *The Handbook of Phonetics and Phonology of Modern Iranian Languages*.
