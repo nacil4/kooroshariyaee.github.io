@@ -9,16 +9,19 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Invited talks
-======
-* Tolerance and resolution of hiatus in Persian. June 21. Razi
+## Invited talks
+### 2021
+* **Ariyaee, Koorosh**. Tolerance and resolution of hiatus in Persian. June 21. Razi
   University, Kermanshah, Iran.
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ariyaee, Koorosh**. Socioculturally induced language barrier: Stigmas and resolution
+strategies. Invited speaker series workshop on language barrier at Youth 4 Success Organization.
+February 27. Toronto, Canada.
 
-Refereed Conference Presentations
-======
-* Summer 2015: Research Assistant
+## Refereed Conference Presentations
+### 2021
+* **Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition. Accepted
+for oral presentation at *Canadian Linguistics Association (CLA 39)*. June 5-7. University
+of Alberta.
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
