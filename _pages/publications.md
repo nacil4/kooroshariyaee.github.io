@@ -41,7 +41,7 @@ Washington, DC: Linguistic Society of America*.
 Phonetics (MOT) Workshop 2019*.
 
 
-## Refereed Conference Presentations
+<!-- ## Refereed Conference Presentations
 
 * Summer 2015: Research Assistant
   * Github University
@@ -82,7 +82,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
