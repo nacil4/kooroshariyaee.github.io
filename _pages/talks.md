@@ -74,6 +74,12 @@ Phonology Forum 2019 (SPF 2019)*. August 2. University of Toronto.
 ### 2018
 * **Ariyaee, Koorosh**. Loanword adaptation patterns in Persian. Oral presentation at
 *Iranian Languages Workshop*. December 5. University of Toronto.
+* **Ariyaee, Koorosh**. Pre-nasal vowel Raising in vernacular Tehrani Persian. Oral presentation
+at *Summer Phonology Forum 2018 (SPF 2018)*. August 2. University of Toronto.
+
+### 2017
+* **Ariyaee, Koorosh**. Copular constructions in Malagasy. Oral presentation at *Malagasy
+Workshop*. December 11. University of Toronto.
 
 <!-- * Skill 1
 * Skill 2
