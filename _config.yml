@@ -82,8 +82,8 @@ analytics:
 author:
   name             : ""
   avatar           : "profileK.jpg"
-  bio              : "Ph.D Student at University of Toronoto"
-  location         : "Toronto, ON"
+  bio              : "Ph.D Student of Linguistics  University of Toronto"
+#   location         : "University of Toronto"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
