@@ -66,9 +66,16 @@ University of Kentucky.
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
   
-Non-refereed Conference Prsesentations
-======
-* Skill 1
+## Non-refereed Conference Prsesentations
+### 2019
+* **Ariyaee, Koorosh**. Hiatus resolution strategies in Persian. Oral presentation at *Summer
+Phonology Forum 2019 (SPF 2019)*. August 2. University of Toronto.
+
+### 2018
+* **Ariyaee, Koorosh**. Loanword adaptation patterns in Persian. Oral presentation at
+*Iranian Languages Workshop*. December 5. University of Toronto.
+
+<!-- * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -96,3 +103,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
