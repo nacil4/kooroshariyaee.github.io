@@ -49,7 +49,13 @@ constraint approach. Oral presentation at *North American Conference in Iranian 
 
 ### 2017
 * **Ariyaee, Koorosh**. Imperative marking in Southern Kurdish. Poster presentation at
-Linguistics Summer Institute of America (LSA). August 8. University of Kentucky.
+*Linguistics Summer Institute of America (LSA)*. August 8. University of Kentucky.
+* **Ariyaee, Koorosh**. Morphological tense marking operations in Kalhori Kurdish. Oral
+presentation at *Southeastern Conference on Linguistics (SECOL 84)*. March 8-11. College
+of Charleston.
+* **Ariyaee, Koorosh**. Concatenative and nonconcatenative morphology in tense-marking.
+Oral presentation at *Central Kentucky Linguistics Conference (CKLiC)*. February 18.
+University of Kentucky.
 
 <!--   * Github University
   * Duties included: Tagging issues
