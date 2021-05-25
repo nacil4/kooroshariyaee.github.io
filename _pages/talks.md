@@ -14,7 +14,7 @@ redirect_from:
 * **Ariyaee, Koorosh**. Tolerance and resolution of hiatus in Persian. June 21. Razi
   University, Kermanshah, Iran.
 * **Ariyaee, Koorosh**. Socioculturally induced language barrier: Stigmas and resolution
-strategies. Invited speaker series workshop on language barrier at Youth 4 Success Organization.
+strategies. Invited speaker series workshop on language barrier at *Youth 4 Success Organization*.
 February 27. Toronto, Canada.
 
 ## Refereed Conference Presentations
@@ -22,14 +22,24 @@ February 27. Toronto, Canada.
 * **Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition. Accepted
 for oral presentation at *Canadian Linguistics Association (CLA 39)*. June 5-7. University
 of Alberta.
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+### 2020
+* **Ariyaee, Koorosh** & Peter Jurgec. Variable hiatus in Persian is affected by suffix length.
+Oral presentation at *Annual Meeting on Phonology (AMP 8)*. September 18-20. University
+of California at Santa Cruz.
+* **Ariyaee, Koorosh** & Peter Jurgec. Persian elides the second vowel. Oral presentation at
+*Canadian Linguistics Association (CLA 38)*. May 30-June 1. Western University.
+* dddd
+
+###2019
+<!--   * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git -->
+
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Non-refereed Conference Prsesentations
 ======
