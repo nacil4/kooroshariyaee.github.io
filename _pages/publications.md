@@ -32,7 +32,7 @@ Washington, DC: Linguistic Society of America*.
 *Toronto Working Papers in Linguistics 41: Proceedings of Montreal-Ottawa-Toronto Phonology/
 Phonetics (MOT) Workshop 2019*.
 
-### Manuscripts
+### **Manuscripts**
 ### 2018
 * **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. MA thesis. University of Toronto.
 
