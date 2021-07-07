@@ -32,8 +32,11 @@ Washington, DC: Linguistic Society of America*.
 *Toronto Working Papers in Linguistics 41: Proceedings of Montreal-Ottawa-Toronto Phonology/
 Phonetics (MOT) Workshop 2019*.
 
-### Manuscripts in Progress
+### Manuscripts
+### 2018
+* **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. MA thesis. University of Toronto.
 
+### In progress
 * **Ariyaee, Koorosh.** Lateral in Central Kurdish: An acoustic study. In R. Falahati & Z.
 Ghane (Eds.), *The Handbook of Phonetics and Phonology of Modern Iranian Languages*.
 Springer.
