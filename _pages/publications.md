@@ -34,7 +34,7 @@ Phonetics (MOT) Workshop 2019*.
 
 ## **Manuscripts**
 ### 2018
-* **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. MA thesis. University of Toronto.
+* **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. MA thesis. University of Toronto. [pdf](https://kooroshariyaee.github.io/files/MA THESIS-KOOROSH-ARIYAEE-2018.pdf)
 
 ### In progress
 * **Ariyaee, Koorosh.** Lateral in Central Kurdish: An acoustic study. In R. Falahati & Z.
