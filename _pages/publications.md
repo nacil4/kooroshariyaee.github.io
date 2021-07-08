@@ -28,7 +28,7 @@ Washington, DC: Linguistic Society of America*.
 ### 2019
 * **Ariyaee, Koorosh.** Loanword adaption in Persian; a Core-Periphery model approach.
 *Toronto Working Papers in Linguistics 41: Proceedings of Montreal-Ottawa-Toronto Phonology/
-Phonetics (MOT) Workshop 2019*.
+Phonetics (MOT) Workshop 2019*. [[link to pdf]](https://kooroshariyaee.github.io/files/Ariyaee-2019-loanword-adaptation-Persian.pdf)
 
 ## **Manuscripts**
 ### 2018
