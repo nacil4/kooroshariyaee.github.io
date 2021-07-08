@@ -28,11 +28,11 @@ Washington, DC: Linguistic Society of America*. [[pdf]](https://kooroshariyaee.g
 ### 2019
 * **Ariyaee, Koorosh.** Loanword adaption in Persian; a Core-Periphery model approach.
 *Toronto Working Papers in Linguistics 41: Proceedings of Montreal-Ottawa-Toronto Phonology/
-Phonetics (MOT) Workshop 2019*. [[link to pdf]](https://kooroshariyaee.github.io/files/Ariyaee-2019-loanword-adaptation-Persian.pdf)
+Phonetics (MOT) Workshop 2019*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee-2019-loanword-adaptation-Persian.pdf)
 
 ## **Manuscripts**
 ### 2018
-* **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. MA thesis. University of Toronto. [[link to pdf]](https://kooroshariyaee.github.io/files/MA THESIS-KOOROSH-ARIYAEE-2018.pdf)
+* **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. MA thesis. University of Toronto. [[pdf]](https://kooroshariyaee.github.io/files/MA THESIS-KOOROSH-ARIYAEE-2018.pdf)
 
 ### In progress
 * **Ariyaee, Koorosh.** Lateral in Central Kurdish: An acoustic study. In R. Falahati & Z.
