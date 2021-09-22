@@ -26,8 +26,8 @@ Cavallaro (Eds.), *Proceedings of the 2020 Annual Meeting Phonology (AMP Proceed
 Washington, DC: Linguistic Society of America*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee-Jurgec-2021-Persian-hiatus.pdf)
 
 ### 2019
-* **Ariyaee, Koorosh**. The need for indexed markedness: evidence from spoken Persian.
-*Proceedings of the annual meeting of the 37th Canadian Linguistics Association (CLA 37)*.
+* **Ariyaee, Koorosh**. The need for indexed markedness: Evidence from spoken Persian.
+*Proceedings of the annual meeting of the 37th Canadian Linguistics Association (CLA 37)*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee_CLA_2019.pdf)
 * **Ariyaee, Koorosh.** Loanword adaption in Persian; a Core-Periphery model approach.
 *Toronto Working Papers in Linguistics 41: Proceedings of Montreal-Ottawa-Toronto Phonology/
 Phonetics (MOT) Workshop 2019*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee-2019-loanword-adaptation-Persian.pdf)
