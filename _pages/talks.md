@@ -10,7 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 ## Invited talks
-### 2021
+### 2021  
 * **Ariyaee, Koorosh**. Tolerance and resolution of hiatus in Persian. June 21. Razi
   University, Kermanshah, Iran.
 * **Ariyaee, Koorosh**. Socioculturally induced language barrier: Stigmas and resolution
@@ -19,10 +19,9 @@ February 27. Toronto, Canada.
 
 ## Refereed Conference Presentations
 ### 2021
-* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in three languages. Oral presentation at Acoustics Week in Canada (AWC 21)}. October 5-7. Université de Sherbrooke.
+* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in three languages. Oral presentation at *Acoustics Week in Canada (AWC 21)*. October 5-7. Université de Sherbrooke.
 
-* **Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition. Accepted
-for oral presentation at *Canadian Linguistics Association (CLA 39)*. June 5-7. University
+* **Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition. Oral presentation at *Canadian Linguistics Association (CLA 39)*. June 5-7. University
 of Alberta.
 
 ### 2020
