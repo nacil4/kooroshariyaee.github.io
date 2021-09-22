@@ -18,6 +18,8 @@ redirect_from:
 <!-- Publications -->
 
 ### 2021
+* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in three languages. *Proceedings of Acoustics Week in Canada (AWC 21).* [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee_etal_gutturals_AWC21.pdf)
+
 * **Ariyaee, Koorosh** & Peter Jurgec. Variable hiatus in Persian is affected by suffix length.
 In R. Bennett, R. Bibbs, M. L Brinkerhoff, M J. Kaplan, S. Rich, N. Van Handel & M. W.
 Cavallaro (Eds.), *Proceedings of the 2020 Annual Meeting Phonology (AMP Proceedings).
