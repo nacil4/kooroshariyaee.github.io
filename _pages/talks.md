@@ -19,6 +19,8 @@ February 27. Toronto, Canada.
 
 ## Refereed Conference Presentations
 ### 2021
+* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in three languages. Oral presentation at Acoustics Week in Canada (AWC 21)}. October 5-7. Université de Sherbrooke.
+
 * **Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition. Accepted
 for oral presentation at *Canadian Linguistics Association (CLA 39)*. June 5-7. University
 of Alberta.
@@ -55,9 +57,7 @@ constraint approach. Oral presentation at *North American Conference in Iranian 
 * **Ariyaee, Koorosh**. Morphological tense marking operations in Kalhori Kurdish. Oral
 presentation at *Southeastern Conference on Linguistics (SECOL 84)*. March 8-11. College
 of Charleston.
-* **Ariyaee, Koorosh**. Concatenative and nonconcatenative morphology in tense-marking.
-Oral presentation at *Central Kentucky Linguistics Conference (CKLiC)*. February 18.
-University of Kentucky.
+
 
 <!--   * Github University
   * Duties included: Tagging issues
@@ -69,6 +69,10 @@ University of Kentucky.
   * Supervisor: Professor Hub -->
   
 ## Non-refereed Conference Prsesentations
+### 2021
+* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in three languages. Oral presentation at *Summer
+Phonology Forum 2019 (SPF 2019)*. July 27. University of Toronto.
+
 ### 2019
 * **Ariyaee, Koorosh**. Hiatus resolution strategies in Persian. Oral presentation at *Summer
 Phonology Forum 2019 (SPF 2019)*. August 2. University of Toronto.
@@ -82,6 +86,10 @@ at *Summer Phonology Forum 2018 (SPF 2018)*. August 2. University of Toronto.
 ### 2017
 * **Ariyaee, Koorosh**. Copular constructions in Malagasy. Oral presentation at *Malagasy
 Workshop*. December 11. University of Toronto.
+
+* **Ariyaee, Koorosh**. Concatenative and nonconcatenative morphology in tense-marking.
+Oral presentation at *Central Kentucky Linguistics Conference (CKLiC)*. February 18.
+University of Kentucky.
 
 <!-- * Skill 1
 * Skill 2
