@@ -70,7 +70,7 @@ of Charleston.
 ## Non-refereed Conference Prsesentations
 ### 2021
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in three languages. Oral presentation at *Summer
-Phonology Forum 2019 (SPF 2021)*. July 27. University of Toronto.
+Phonology Forum 2021 (SPF 2021)*. July 27. University of Toronto.
 
 ### 2019
 * **Ariyaee, Koorosh**. Hiatus resolution strategies in Persian. Oral presentation at *Summer
