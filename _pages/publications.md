@@ -33,15 +33,15 @@ Washington, DC: Linguistic Society of America*. [[pdf]](https://kooroshariyaee.g
 Phonetics (MOT) Workshop 2019*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee-2019-loanword-adaptation-Persian.pdf)
 
 ## **Manuscripts**
-### 2018
-* **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. MA thesis. University of Toronto. [[pdf]](https://kooroshariyaee.github.io/files/MA THESIS-KOOROSH-ARIYAEE-2018.pdf)
-
 ### In progress
 * **Ariyaee, Koorosh.** Lateral in Central Kurdish: An acoustic study. In R. Falahati & Z.
 Ghane (Eds.), *The Handbook of Phonetics and Phonology of Modern Iranian Languages*.
 Springer.
 * **Ariyaee, Koorosh.** Triggers and targets: nasals and vowels in Tehrani Persian. In A.
 Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi (Eds.), *The Handbook of Persian
+### 2018
+* **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. MA thesis. University of Toronto. [[pdf]](https://kooroshariyaee.github.io/files/MA THESIS-KOOROSH-ARIYAEE-2018.pdf)
+
 Dialects and Dialectology. Springer*.
 
 <!-- ## Refereed Conference Presentations
