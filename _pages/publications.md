@@ -41,7 +41,7 @@ Springer.
 Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi (Eds.), *The Handbook of Persian Dialects and Dialectology*. Springer.
 
 ### 2018
-* **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. MA thesis. University of Toronto. [[pdf]](https://kooroshariyaee.github.io/files/MA THESIS-KOOROSH-ARIYAEE-2018.pdf)
+* **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. MA thesis. University of Toronto. [[pdf]](https://kooroshariyaee.github.io/files/MA_Thesis_Ariyaee_2018.pdf)
 
 
 
