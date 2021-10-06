@@ -22,7 +22,7 @@ redirect_from:
 
 * **Ariyaee, Koorosh** & Peter Jurgec. Variable hiatus in Persian is affected by suffix length.
 In R. Bennett, R. Bibbs, M. L Brinkerhoff, M J. Kaplan, S. Rich, N. Van Handel & M. W.
-Cavallaro (Eds.), *Proceedings of the 2020 Annual Meeting Phonology (AMP Proceedings).
+Cavallaro (Eds.), *Proceedings of the 2020 Annual Meeting on Phonology (AMP Proceedings).
 Washington, DC: Linguistic Society of America*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee-Jurgec-2021-Persian-hiatus.pdf)
 
 ### 2019
