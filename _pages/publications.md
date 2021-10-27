@@ -34,7 +34,7 @@ Phonetics (MOT) Workshop 2019*. [[pdf]](https://kooroshariyaee.github.io/files/A
 
 ## **Manuscripts**
 ### In progress
-* **Ariyaee, Koorosh.** Lateral in Central Kurdish: An acoustic study. In R. Falahati & Z.
+* **Ariyaee, Koorosh.** Laterals in Central Kurdish: An acoustic study. In R. Falahati & Z.
 Ghane (Eds.), *The Handbook of Phonetics and Phonology of Modern Iranian Languages*.
 Springer.
 * **Ariyaee, Koorosh.** Triggers and targets: nasals and vowels in Tehrani Persian. In A.
