@@ -17,6 +17,10 @@ redirect_from:
 
 <!-- Publications -->
 
+### 2022
+* **Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition in consonant clusters. *Proceedings of the annual meeting of the 39th
+Canadian Linguistics Association*.
+
 ### 2021
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in three languages. *Proceedings of Acoustics Week in Canada (AWC 21).* [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee_etal_AWC21.pdf)
 
