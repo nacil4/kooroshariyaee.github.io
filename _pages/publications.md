@@ -17,7 +17,7 @@ redirect_from:
 
 <!-- Publications -->
 
-### 2022
+### To Appear
 * **Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition in consonant clusters. *Proceedings of the annual meeting of the 39th
 Canadian Linguistics Association*.
 
