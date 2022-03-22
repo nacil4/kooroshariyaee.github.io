@@ -37,11 +37,10 @@ Phonetics Workshop 2019*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee
 
 ## **Manuscripts**
 ### In progress
-* **Ariyaee, Koorosh.** Laterals in Central Kurdish: An acoustic study. In R. Falahati & Z.
-Ghane (Eds.), *The Handbook of Phonetics and Phonology of Modern Iranian Languages*.
-Springer.
-* **Ariyaee, Koorosh.** Triggers and targets: nasals and vowels in Tehrani Persian. In A.
-Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi (Eds.), *The Handbook of Persian Dialects and Dialectology*. Springer.
+* **Ariyaee, Koorosh.** Persian vowel hiatus. In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, ed. R. Falahati & Z.
+Ghane. Springer.
+* **Ariyaee, Koorosh.** Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, ed. A.
+Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi (Eds.). Springer.
 
 ### 2018
 * **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. Master's thesis. University of Toronto. [[pdf]](https://kooroshariyaee.github.io/files/MA_Thesis_Ariyaee_2018.pdf)
