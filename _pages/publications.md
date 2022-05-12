@@ -17,7 +17,11 @@ redirect_from:
 
 <!-- Publications -->
 
-### To Appear
+### Under review
+* **Ariyaee, Koorosh.** Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, ed. A.
+Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi (Eds.). Springer.
+
+### 2022
 * **Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition in consonant clusters. *Proceedings of the annual meeting of the 39th
 Canadian Linguistics Association*.
 
@@ -39,8 +43,6 @@ Phonetics Workshop 2019*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee
 ### In progress
 * **Ariyaee, Koorosh.** Persian vowel hiatus. In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, ed. R. Falahati & Z.
 Ghane. Springer.
-* **Ariyaee, Koorosh.** Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, ed. A.
-Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi (Eds.). Springer.
 
 ### 2018
 * **Ariyaee, Koorosh.** *Pre-nasal Vowel Raising in Tehrani Persian*. Master's thesis. University of Toronto. [[pdf]](https://kooroshariyaee.github.io/files/MA_Thesis_Ariyaee_2018.pdf)
