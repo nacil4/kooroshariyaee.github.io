@@ -18,6 +18,9 @@ strategies. Invited speaker series workshop on language barrier at *Youth 4 Succ
 February 27. Toronto, Canada.
 
 ## Refereed Conference Presentations
+### 2022
+* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustic classification of guttural fricatives in Arabic, Armenian, and Kurdish. Oral presentation at The 18th Conference on Laboratory Phonology (LabPhon 18). June 23-25.
+
 ### 2021
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in three languages. Oral presentation at *Acoustics Week in Canada (AWC 21)*. October 5-7. Université de Sherbrooke.
 
