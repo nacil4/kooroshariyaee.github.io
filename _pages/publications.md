@@ -18,7 +18,7 @@ redirect_from:
 <!-- Publications -->
 
 ### Under review
-* Ariyaee, Koorosh. Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, ed. A.
+* **Ariyaee, Koorosh**. Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, ed. A.
 Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi (Eds.). Springer.
 
 ### 2022
@@ -33,19 +33,19 @@ Cavallaro (Eds.), *Proceedings of the 2020 Annual Meeting on Phonology.
 Washington, DC: Linguistic Society of America*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee-Jurgec-2021-Persian-hiatus.pdf)
 
 ### 2019
-* Ariyaee, Koorosh. The need for indexed markedness: Evidence from spoken Persian.
+* **Ariyaee, Koorosh**. The need for indexed markedness: Evidence from spoken Persian.
 *Proceedings of the annual meeting of the 37th Canadian Linguistics Association*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee_CLA_2019.pdf)
-* Ariyaee, Koorosh. Loanword adaption in Persian; a Core-Periphery model approach.
+* **Ariyaee, Koorosh**. Loanword adaption in Persian; a Core-Periphery model approach.
 *Toronto Working Papers in Linguistics 41: Proceedings of Montreal-Ottawa-Toronto Phonology/
 Phonetics Workshop 2019*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee-2019-loanword-adaptation-Persian.pdf)
 
 ## **Manuscripts**
 ### In progress
-* Ariyaee, Koorosh. Persian vowel hiatus. In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, ed. R. Falahati & Z.
+* **Ariyaee, Koorosh**. Persian vowel hiatus. In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, ed. R. Falahati & Z.
 Ghane. Springer.
 
 ### 2018
-* Ariyaee, Koorosh. *Pre-nasal Vowel Raising in Tehrani Persian*. Master's thesis. University of Toronto. [[pdf]](https://kooroshariyaee.github.io/files/MA_Thesis_Ariyaee_2018.pdf)
+* **Ariyaee, Koorosh**. *Pre-nasal Vowel Raising in Tehrani Persian*. Master's thesis. University of Toronto. [[pdf]](https://kooroshariyaee.github.io/files/MA_Thesis_Ariyaee_2018.pdf)
 
 
 
