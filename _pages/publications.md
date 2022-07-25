@@ -22,7 +22,7 @@ redirect_from:
 Ghane. Springer.
 * **Ariyaee, Koorosh**. Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, eds. A.
 Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi. Springer.
-* **Ariyaee, Koorosh**. Persian. In *Nominal Linkers in Iranian languages,* eds. Sahar Taghipour and Arsalan Kahnemuyipour. Toronto Working Papers in Linguistics.
+* **Ariyaee, Koorosh**. Persian. In *Nominal Linkers in Iranian languages,* eds. S. Taghipour & A. Kahnemuyipour. Toronto Working Papers in Linguistics.
 
 ### 2022
 * **Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition in consonant clusters. *Proceedings of the annual meeting of the 39th
