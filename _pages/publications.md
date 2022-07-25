@@ -18,8 +18,11 @@ redirect_from:
 <!-- Publications -->
 
 ### Under review
-* **Ariyaee, Koorosh**. Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, ed. A.
-Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi (Eds.). Springer.
+* **Ariyaee, Koorosh**. Persian vowel hiatus. In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, eds. R. Falahati & Z.
+Ghane. Springer.
+* **Ariyaee, Koorosh**. Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, eds. A.
+Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi. Springer.
+* **Ariyaee, Koorosh**. Persian. In *Nominal Linkers in Iranian languages,*, eds. Sahar Taghipour and Arsalan Kahnemuyipour. Toronto Working Papers in Linguistics.
 
 ### 2022
 * **Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition in consonant clusters. *Proceedings of the annual meeting of the 39th
@@ -40,9 +43,9 @@ Washington, DC: Linguistic Society of America*. [[pdf]](https://kooroshariyaee.g
 Phonetics Workshop 2019*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee-2019-loanword-adaptation-Persian.pdf)
 
 ## **Manuscripts**
-### In progress
-* **Ariyaee, Koorosh**. Persian vowel hiatus. In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, ed. R. Falahati & Z.
-Ghane. Springer.
+### In Prep
+* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustic classification of guttural fricatives in Arabic, Armenian,
+and Kurdish.
 
 ### 2018
 * **Ariyaee, Koorosh**. *Pre-nasal Vowel Raising in Tehrani Persian*. Master's thesis. University of Toronto. [[pdf]](https://kooroshariyaee.github.io/files/MA_Thesis_Ariyaee_2018.pdf)
