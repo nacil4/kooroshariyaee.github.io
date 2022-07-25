@@ -30,10 +30,9 @@ Canadian Linguistics Association.* [[pdf]](https://kooroshariyaee.github.io/file
 
 ### 2021
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in three languages. *Proceedings of Acoustics Week in Canada.* [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee_etal_AWC21.pdf)
-* **Ariyaee, Koorosh** & Peter Jurgec. Variable hiatus in Persian is affected by suffix length.
-In R. Bennett, R. Bibbs, M. L Brinkerhoff, M J. Kaplan, S. Rich, N. Van Handel & M. W.
-Cavallaro (Eds.), *Proceedings of the 2020 Annual Meeting on Phonology.
-Washington, DC: Linguistic Society of America*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee-Jurgec-2021-Persian-hiatus.pdf)
+* **Ariyaee, Koorosh** & Peter Jurgec. Variable hiatus in Persian is affected by suffix length. In *Proceedings of the 2020 Annual Meeting on Phonology.
+Washington, DC: Linguistic Society of America,* eds. R. Bennett, R. Bibbs, M. L Brinkerhoff, M J. Kaplan, S. Rich, N. Van Handel & M. W.
+Cavallaro.  [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee-Jurgec-2021-Persian-hiatus.pdf)
 
 ### 2019
 * **Ariyaee, Koorosh**. The need for indexed markedness: Evidence from spoken Persian.
