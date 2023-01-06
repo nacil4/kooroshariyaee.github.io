@@ -46,8 +46,6 @@ Phonetics Workshop 2019*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustic classification of guttural fricatives in Arabic, Armenian,
 and Kurdish.
 
-### 2018
-* **Ariyaee, Koorosh**. *Pre-nasal Vowel Raising in Tehrani Persian*. Master's thesis. University of Toronto. [[pdf]](https://kooroshariyaee.github.io/files/MA_Thesis_Ariyaee_2018.pdf)
 
 
 
