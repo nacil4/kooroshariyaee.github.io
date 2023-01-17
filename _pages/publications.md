@@ -45,6 +45,7 @@ Phonetics Workshop 2019*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee
 ### In Prep
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustic classification of guttural fricatives in Arabic, Armenian,
 and Kurdish.
+* **Ariyaee, Koorosh** & Peter Jurgec. Hiatus variability in Persian.
 
 
 
