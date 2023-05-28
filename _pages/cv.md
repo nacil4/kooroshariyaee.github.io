@@ -8,7 +8,7 @@ redirect_from:
   - /resume
 ---
 
-Please click [here](https://kooroshariyaee.github.io/files/Koorosh_Ariyaee_CV.pdf) to see my CV (updated July 2022).
+Please click [here](https://kooroshariyaee.github.io/files/Koorosh_Ariyaee_CV.pdf) to see my CV (updated June 2023).
 
 <!-- {% include base_path %}
 
