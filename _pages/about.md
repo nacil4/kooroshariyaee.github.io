@@ -10,15 +10,13 @@ redirect_from:
 
 Hello! Welcome to my website!
 
-I am a PhD candidate at the Department of Linguistics of the University of Toronto. I am interested in phonetics, phonology, and psycholinguistics. My research has been mainly focused on Iranian languages, in particular Persian and Kurdish. 
+I am a PhD candidate at the Department of Linguistics of the University of Toronto. I am interested in phonetics, phonology, and psycholinguistics. In particular, my research has been focused on the effect of phonetic factors on the patterning of phonological processes resulting in variable sound patterns. Using experimental methods I investigate the production, perception and processing of such phenomena, their cross-linguistic and theoretical contributions. In my dissertation I study the lexical access and the mental representation of words' variants whose variability is coded in the allophonic variation of the uvular phoneme used in Spoken Persian. The goal of my dissertation is to understand how the underlying system of language cognition functions with respect to the processing and representation of phonetic detail observed in pronunciation variants of words.
 
-### Current research projects
-* Mental representation and lexical access of words' variants: In my PhD dissertation...
-* Vowel hiatus:
-* Language description and documentation via online data collection methods:
+My research on words’ variants extends to the domain of morphophonology. In a research on Persian, I am investigating the interaction of vowel hiatus preservation and hiatus repair strategies at the stem-suffix boundary, which results in variable word forms. In particular, I examine how various factors such as suffix length, vowel quality, paradigmatic contrast altogether constrain the rare architecture of hiatus variability in Persian.
 
+I am also interested in the phonetic documentation of underrepresented languages and dialects. I have been part of a research team working on the description and documentation of guttural sounds in Emirate Arabic, Lebanese Western Armenian, and Iraqi Central (Sorani) Kurdish. In this project, we have also been examining the reliability of online and remote methods of acoustic data collection, with the goal of contributing to the methodological aspects of phonetic language documentation.
+![image](https://github.com/kooroshariyaee/kooroshariyaee.github.io/assets/84391584/2ab2be35-13e5-4eca-a976-bdf8fe80607b)
 
-Part of  In my PhD dissertation, through a number of behavioral experiments, I study the lexical access and the mental representation of words' variants whose variability is coded in the allophonic variation of .
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
