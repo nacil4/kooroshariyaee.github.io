@@ -34,11 +34,14 @@ of Alberta.
 ### 2020
 * **Ariyaee, Koorosh** & Peter Jurgec. Variable hiatus in Persian. Flash Talk at *North East
 Linguistic Society (NELS 51)*. November 6-8. Université du Québec à Montréal.
+
 * **Ariyaee, Koorosh** & Peter Jurgec. Variable hiatus in Persian is affected by suffix length.
 Oral presentation at *Annual Meeting on Phonology (AMP 8)*. September 18-20. University
 of California at Santa Cruz.
+
 * **Ariyaee, Koorosh** & Peter Jurgec. Persian elides the second vowel. Oral presentation at
 *Canadian Linguistics Association (CLA 38)*. May 30-June 1. Western University.
+
 * **Ariyaee, Koorosh** & Peter Jurgec. Hiatus resolution in Persian depends on suffix length.
 Accepted for oral presentation at *Montreal-Ottawa-Toronto Phonology/Phonetics (MOT)
 Workshop*. March 27-29, 2020. University of Ottawa (cancelled due to COVID-19 pandemic).
@@ -47,12 +50,15 @@ Workshop*. March 27-29, 2020. University of Ottawa (cancelled due to COVID-19 pa
 * **Ariyaee, Koorosh**. The need for indexed markedness: evidence from spoken Persian.
 Oral presentation at *Canadian Linguistics Association (CLA 37)*. June 1-3. University of
 British Columbia.
+
 * **Ariyaee, Koorosh** & Ali Salehi. Does Persian prefer Arabic to French and English?
 Poster presentation at *Canadian Linguistics Association (CLA 37)*. June 1-3. University
 of British Columbia.
+
 * **Ariyaee, Koorosh**. Loanword adaption in Persian; a Core-Periphery model approach.
 Oral presentation at *Montreal-Ottawa-Toronto Phonology/Phonetics (MOT) Workshop*.
 March 29-30. University of Toronto.
+
 * **Ariyaee, Koorosh**. Exceptions of pre-nasal vowel raising in spoken Persian; an indexed
 constraint approach. Oral presentation at *North American Conference in Iranian Linguistics
 (NACIL 2)*. April 19-21. University of Arizona (virtually).
@@ -60,6 +66,7 @@ constraint approach. Oral presentation at *North American Conference in Iranian 
 ### 2017
 * **Ariyaee, Koorosh**. Imperative marking in Southern Kurdish. Poster presentation at
 *Linguistics Summer Institute of America (LSA)*. August 8. University of Kentucky.
+
 * **Ariyaee, Koorosh**. Morphological tense marking operations in Kalhori Kurdish. Oral
 presentation at *Southeastern Conference on Linguistics (SECOL 84)*. March 8-11. College
 of Charleston.
