@@ -15,7 +15,7 @@ I am a PhD candidate at the Department of Linguistics of the University of Toron
 My research on words’ variants extends to the domain of morphophonology. In a research on Persian, I am investigating the interaction of vowel hiatus preservation and hiatus repair strategies at the stem-suffix boundary, which results in variable word forms. In particular, I examine how various factors such as suffix length, vowel quality, paradigmatic contrast altogether constrain the rare architecture of hiatus variability in Persian.
 
 I am also interested in the phonetic documentation of underrepresented languages and dialects. I have been part of a research team working on the description and documentation of guttural sounds in Emirate Arabic, Lebanese Western Armenian, and Iraqi Central (Sorani) Kurdish. In this project, we have also been examining the reliability of online and remote methods of acoustic data collection, with the goal of contributing to the methodological aspects of phonetic language documentation.
-![image](https://github.com/kooroshariyaee/kooroshariyaee.github.io/assets/84391584/2ab2be35-13e5-4eca-a976-bdf8fe80607b)
+
 
 
 
