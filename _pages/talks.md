@@ -21,7 +21,6 @@ February 27. Toronto, Canada.
 ### 2023
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. An acoustic analysis of guttural fricatives in Arabic, Armenian, and Kurdish.
 Oral presentation at *The Third North American Conference in Iranian Linguistics (NACIL 3)*. April 21-23. UCLA
-* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustic classification of guttural fricatives in Arabic, Armenian, and Kurdish. Oral presentation at *The 18th Conference on Laboratory Phonology (LabPhon 18)*. June 23-25.
 
 ### 2022
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustic classification of guttural fricatives in Arabic, Armenian, and Kurdish. Oral presentation at *The 18th Conference on Laboratory Phonology (LabPhon 18)*. June 23-25.
