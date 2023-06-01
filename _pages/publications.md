@@ -48,7 +48,6 @@ Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi. Springer.
 * **Ariyaee, Koorosh**. Persian vowel hiatus. In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, eds. R. Falahati & Z.
 Ghane. Springer.
 
-### Under review
 * **Ariyaee, Koorosh**. Persian. In *Nominal Linkers in Iranian languages,* eds. S. Taghipour & A. Kahnemuyipour. Toronto Working Papers in Linguistics.
 
 
