@@ -42,9 +42,6 @@ of California at Santa Cruz.
 * **Ariyaee, Koorosh** & Peter Jurgec. Persian elides the second vowel. Oral presentation at
 *Canadian Linguistics Association (CLA 38)*. May 30-June 1. Western University.
 
-* **Ariyaee, Koorosh** & Peter Jurgec. Hiatus resolution in Persian depends on suffix length.
-Accepted for oral presentation at *Montreal-Ottawa-Toronto Phonology/Phonetics (MOT)
-Workshop*. March 27-29, 2020. University of Ottawa (cancelled due to COVID-19 pandemic).
 
 ### 2019
 * **Ariyaee, Koorosh**. The need for indexed markedness: evidence from spoken Persian.
