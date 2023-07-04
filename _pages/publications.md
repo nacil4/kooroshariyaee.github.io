@@ -53,7 +53,7 @@ Ghane. Springer.
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in Arabic, Armenian, and Kurdish: A case in
 remote data collection.
 
-* **Ariyaee, Koorosh** & Peter Jurgec. Hiatus in Persian: How morphology creates phonological asymmetries in languag.
+* **Ariyaee, Koorosh** & Peter Jurgec. Hiatus in Persian: How morphology creates phonological asymmetries in language.
 
 
 
