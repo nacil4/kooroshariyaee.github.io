@@ -49,7 +49,7 @@ Ghane. Springer.
 * **Ariyaee, Koorosh**. Persian. In *Nominal Linkers in Iranian languages,* eds. S. Taghipour & A. Kahnemuyipour. Toronto Working Papers in Linguistics.
 
 
-### Submitted
+### Submitted journal articles
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in Arabic, Armenian, and Kurdish: A case in
 remote data collection.
 
