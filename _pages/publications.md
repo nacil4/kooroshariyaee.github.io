@@ -17,6 +17,10 @@ redirect_from:
 
 <!-- Publications -->
 
+### Accepted
+* **Ariyaee, Koorosh**. Persian vowel hiatus. In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, eds. R. Falahati & Z.
+Ghane. Springer.
+
 ### 2022
 * **Ariyaee, Koorosh** & Alexei Kochetov. Acoustics of Persian uvular lenition in consonant clusters. *Proceedings of the annual meeting of the 39th
 Canadian Linguistics Association.* [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee_Kochetov_2022-Acoustics_of_Persian_uvular_lenition_in_consonant_clusters_CLA.pdf)
@@ -38,22 +42,22 @@ Phonetics Workshop 2019*. [[pdf]](https://kooroshariyaee.github.io/files/Ariyaee
 
 ## Manuscripts (in progress)
 
-### Revised & resubmitted
-* **Ariyaee, Koorosh**. Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, eds. A.
-Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi. Springer.
+### Journal articles under review
 
-### Under review
-* **Ariyaee, Koorosh**. Persian vowel hiatus. In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, eds. R. Falahati & Z.
-Ghane. Springer.
-
-* **Ariyaee, Koorosh**. Persian. In *Nominal Linkers in Iranian languages,* eds. S. Taghipour & A. Kahnemuyipour. Toronto Working Papers in Linguistics.
-
-
-### Submitted journal articles
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustics of guttural fricatives in Arabic, Armenian, and Kurdish: A case in
 remote data collection.
 
 * **Ariyaee, Koorosh** & Peter Jurgec. Hiatus in Persian: How morphology creates phonological asymmetries in language.
+
+
+### Book chapter revised & resubmitted
+* **Ariyaee, Koorosh**. Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, eds. A.
+Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi. Springer.
+
+### Working paper under review
+* **Ariyaee, Koorosh**. Persian. In *Nominal Linkers in Iranian languages,* eds. S. Taghipour & A. Kahnemuyipour. Toronto Working Papers in Linguistics.
+
+
 
 
 
