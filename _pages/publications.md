@@ -17,6 +17,10 @@ redirect_from:
 
 <!-- Publications -->
 
+### In press
+* **Ariyaee, Koorosh**. Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, eds. A.
+Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi. Springer.
+
 ### Accepted
 * **Ariyaee, Koorosh**. Persian vowel hiatus. In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, eds. R. Falahati & Z.
 Ghane. Springer.
@@ -48,10 +52,6 @@ remote data collection.
 
 * **Ariyaee, Koorosh** & Peter Jurgec. Hiatus in Persian: How morphology creates phonological asymmetries in language.
 
-
-### Book chapter revised & resubmitted
-* **Ariyaee, Koorosh**. Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, eds. A.
-Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi. Springer.
 
 ### Working paper under review
 * **Ariyaee, Koorosh**. Persian. In *Nominal Linkers in Iranian languages,* eds. S. Taghipour & A. Kahnemuyipour. Toronto Working Papers in Linguistics.
