@@ -10,6 +10,9 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 ## Invited talks
+### 2024
+* **Ariyaee, Koorosh**. Representation of words with multiple pronunciations: The case of Persian. March 8. University of Arizona, Lectures on Iranian Linguistics in Arizona (LILA) series.
+
 ### 2021  
 * **Ariyaee, Koorosh**. Tolerance and resolution of hiatus in Persian. June 21. Razi
   University, Kermanshah, Iran.
@@ -20,7 +23,7 @@ February 27. Toronto, Canada.
 ## Refereed Conference Presentations
 ### 2023
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. An acoustic analysis of guttural fricatives in Arabic, Armenian, and Kurdish.
-Oral presentation at *The Third North American Conference in Iranian Linguistics (NACIL 3)*. April 21-23. UCLA
+Oral presentation at *The Third North American Conference in Iranian Linguistics (NACIL 3)*. April 21-23. UCLA.
 
 ### 2022
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. Acoustic classification of guttural fricatives in Arabic, Armenian, and Kurdish. Oral presentation at *The 18th Conference on Laboratory Phonology (LabPhon 18)*. June 23-25.
